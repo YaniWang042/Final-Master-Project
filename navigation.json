@@ -1,0 +1,80 @@
+
+
+{
+    "Home" : {
+        "Oplossingen" : {
+            "Beleggen" : {
+                "Beleggingsadvies" : "/private-banking/beleggen/beleggingsadvies", 
+                "Duurzaam beleggen" : "/private-banking/beleggen/duurzaam-beleggen"
+            },
+            "Betalen" : {
+                "Apple Pay" : "/private-banking/betalen/apple-pay", 
+                "Creditcards" : "/private-banking/betalen/creditcards"
+            }
+        },
+        "Nieuws & Kennis" : {
+            "Beleggen en sparen" : "/private-banking/inspiratie?topics=beleggen%20en%20sparen",
+            "Column" : "/private-banking/inspiratie?topics=column"
+        }
+    },    
+    "Private Banking" : {
+        "Oplossingen" : {
+            "Beleggen" : {
+                "Beleggingsadvies" : "/private-banking/beleggen/beleggingsadvies", 
+                "Duurzaam beleggen" : "/private-banking/beleggen/duurzaam-beleggen"
+            },
+            "Betalen" : {
+                "Apple Pay" : "/private-banking/betalen/apple-pay", 
+                "Creditcards" : "/private-banking/betalen/creditcards"
+            }
+        },
+        "Voor wie" : {
+            "Ondernemers" : {
+                "Bedrijfsadvies" : "/private-banking/voor-wie/ondernemers/bedrijfsadvies", 
+                "Bedrijfsoverdracht" : "/private-banking/voor-wie/ondernemers/bedrijfsoverdracht"
+            },
+            "Particulieren" : {
+                "Beleggen" : "/private-banking/beleggen", 
+                "Hypotheken" : "/private-banking/hypotheken"
+            }
+        },
+        "Kennis & Inspiratie" : {
+            "Beleggen en sparen" : "/private-banking/inspiratie?topics=beleggen%20en%20sparen",
+            "Column" : "/private-banking/inspiratie?topics=column"
+        }
+    },
+    "Professional Solutions" : {
+    },
+    "Investment Management" : {
+        "Investment Strategies" : {
+            "Beleggen" : {
+                "Beleggingsadvies" : "/private-banking/beleggen/beleggingsadvies", 
+                "Duurzaam beleggen" : "/private-banking/beleggen/duurzaam-beleggen"
+            },
+            "Betalen" : {
+                "Apple Pay" : "/private-banking/betalen/apple-pay", 
+                "Creditcards" : "/private-banking/betalen/creditcards"
+            }
+        },
+        "Fiduciary Management" : {
+            "Ondernemers" : {
+                "Bedrijfsadvies" : "/private-banking/voor-wie/ondernemers/bedrijfsadvies", 
+                "Bedrijfsoverdracht" : "/private-banking/voor-wie/ondernemers/bedrijfsoverdracht"
+            },
+            "Particulieren" : {
+                "Beleggen" : "/private-banking/beleggen", 
+                "Hypotheken" : "/private-banking/hypotheken"
+            }
+        },
+        "Sustainability" : {
+            "Beleggen en sparen" : "/private-banking/inspiratie?topics=beleggen%20en%20sparen",
+            "Column" : "/private-banking/inspiratie?topics=column"
+        },
+        "Fund Library" : "/investment-management/fund-library",
+        "Insights" : "/investment-management/insights"
+    },
+    "Investment Banking" : {
+    },
+    "About us" : {
+    }
+}

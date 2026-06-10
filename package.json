@@ -1,0 +1,30 @@
+{
+  "name": "genui",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Test for using JSON tokens files",
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "vite build",
+    "start": "vite",
+    "preview": "npm run build && vite preview"
+  },
+  "author": {
+    "name": "VLK"
+  },
+  "devDependencies": {
+    "@vituum/vite-plugin-pug": "^1.1.0",
+    "file-saver": "^2.0.5",
+    "fs-extra": "latest",
+    "rimraf": "^6.0.1",
+    "sass": "latest",
+    "typescript": "^5.9.3",
+    "vite": "7.2.7",
+    "vituum": "^1.2.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/bitter": "5.2.10",
+    "@fontsource/lato": "5.2.7"
+  }
+}
